@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Test
 date: 2017-01-04T15:04:10.000Z
-description: はじめての投稿２
+description: はじめての投稿３
 featuredpost: false
 featuredimage: /img/chemex.jpg
 tags:
