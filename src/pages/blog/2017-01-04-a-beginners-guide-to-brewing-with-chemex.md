@@ -2,9 +2,9 @@
 templateKey: blog-post
 title: Test
 date: 2017-01-04T15:04:10.000Z
+description: はじめての投稿２
 featuredpost: false
 featuredimage: /img/chemex.jpg
-description: はじめての投稿
 tags:
   - brewing
   - chemex
